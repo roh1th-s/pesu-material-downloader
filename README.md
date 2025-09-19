@@ -112,15 +112,6 @@ Course Name/
 - [`PyPDF2`](https://pypi.org/project/PyPDF2/): PDF manipulation library for merging PDFs
 - [`python-dotenv`](https://pypi.org/project/python-dotenv/): For loading environment variables from .env file
 
-## Notes
-
-- The tool automatically sanitizes filenames to be compatible with Windows, Linux, and macOS filesystems
-- Only PDF files are merged in `singlepdf` mode; other file types are skipped
-- Downloads are performed asynchronously for better performance
-- Existing folders/files will not be overwritten
-- Cross-platform support for all major operating systems
-
-
 ## License
 
 MIT
