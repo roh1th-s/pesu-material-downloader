@@ -1,0 +1,4 @@
+pesuacademy
+PyPDF2
+lxml
+python-dotenv
